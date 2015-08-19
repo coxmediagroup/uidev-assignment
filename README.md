@@ -9,7 +9,7 @@ This assignment requires knowledge in the following areas:
 - Bootstrap framework
 - Google fonts
 
-##Assignment criteria   test
+##Assignment criteria
 
 Create a responsive webpage based on the graphical mockups provided.  You will be coding only the header, menu and some of the top content on the page; not the entire page. 
 
