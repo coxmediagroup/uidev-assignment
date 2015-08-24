@@ -36,7 +36,7 @@ Use the Google font Oswald for the web page headers.  Use the default Bootstrap 
 
 ####Evaluation of assignment
 
-You will be evaluated on your HTML and CSS quality as well as your attention to detail in completing the code test.
+You will be evaluated on your HTML and CSS quality as well as your attention to detail in completing the code assignment.
 
 ####How you should deliver your completed assignment
 
