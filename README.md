@@ -32,7 +32,6 @@ Your webpage will support the following breakpoints.  Make sure your page displa
 
 ####Design attributes
 
-- Implement the browser tab icon located in the img folder.
 - Create all visual elements of the web page based on the mockups located in the comps folder.  Use your best judgement to match the mockups provided.
 - Place all CSS in the external stylesheet unidev-assignment/css/styles.css.
 
