@@ -23,12 +23,7 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 ####Bootstrap framework
 
-Your webpage will support the following breakpoints.  Make sure your page displays content correctly (as indicated in the mockups) at these breakpoints.
-
-- 1284px wide
-- 1024px wide
-- 768px wide
-- 480px wide
+Your webpage will support the four breakpoints indicated in the mockups.
 
 ####Design attributes
 
@@ -37,7 +32,7 @@ Your webpage will support the following breakpoints.  Make sure your page displa
 
 ####Fonts
 
-Use a Google font for the web page headers.  Use the default Bootstrap framework font for the web page body text.
+Use the Google font Oswald for the web page headers.  Use the default Bootstrap framework font for the web page body text.
 
 ####Evaluation of assignment
 
