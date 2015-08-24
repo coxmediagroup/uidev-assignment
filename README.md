@@ -9,6 +9,8 @@ This assignment requires knowledge in the following areas:
 - Bootstrap framework
 - Less or Sass preprocessor
 	- You will be modifying some global variables and recompiling the bootstrap CSS files.
+- Grunt or other task-based command line build-tool of your choice
+	- You will be recompiling the Less (or Sass) files you modified
 - Google fonts
 
 ##Assignment criteria
