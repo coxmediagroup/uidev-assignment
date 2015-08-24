@@ -23,7 +23,7 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 ####Bootstrap framework
 
-Your webpage will support the four breakpoints indicated in the mockups.
+Your webpage will support the four breakpoints indicated in the mockups located in the unidev-assignment/comps folder.
 
 ####Design attributes
 
