@@ -8,9 +8,7 @@ This assignment requires knowledge in the following areas:
 - CSS3
 - Bootstrap framework
 - Less or Sass preprocessor
-	- You will be modifying some global variables and recompiling the bootstrap CSS files.
 - Grunt or other task-based command line build-tool of your choice
-	- You will be recompiling the Less (or Sass) files you modified
 - Google fonts
 
 ##Assignment criteria
@@ -27,22 +25,10 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 Your webpage will support the following breakpoints.  Make sure your page displays content correctly (as indicated in the mockups) at these breakpoints.
 
-- 1284px wide (requires global variable change, see Less section below)
-- 1024px wide (requires global variable change, see Less section below)
+- 1284px wide
+- 1024px wide
 - 768px wide
 - 480px wide
-
-####Less or Sass preprocessor
-
-You will be modifying some global variables and recompiling the bootstrap CSS files.  
-
-- Add your global variable changes to the file uidev-assignment-extended/less/variables-newstalk.less
-- The following global variable changes need to be made:
-	- change the gutter width to 20px
-	- change the large screen width (screen-lg) to 1284px
-	- change the large screen container width (container-large-desktop) to 1264px
-	- change the medium screen width (screen-md) to 1024px
-	- change the medium screen container width (container-desktop) to 1004px
 
 ####Design attributes
 
@@ -52,7 +38,7 @@ You will be modifying some global variables and recompiling the bootstrap CSS fi
 
 ####Fonts
 
-Use the Google font Oswald for the web page headers.  Use the default Bootstrap framework font for the web page body text.
+Use a Google font for the web page headers.  Use the default Bootstrap framework font for the web page body text.
 
 ####Evaluation of assignment
 
